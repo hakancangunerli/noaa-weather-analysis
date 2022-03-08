@@ -2,5 +2,5 @@ ipython==8.1.1
 kaleido==0.2.1
 matplotlib==3.4.3
 noaa_sdk==0.1.21
-numpy==1.20.3
+numpy==1.21.0
 plotly==5.6.0
